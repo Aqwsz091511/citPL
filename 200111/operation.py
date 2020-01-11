@@ -1,0 +1,22 @@
+#산술 연산
+print(1+1)
+print(-9-7)
+print(12*12)
+print(1800/71)
+print(8%3)
+print(1021%32)
+print(34**35)
+print(77//21)
+#괄호 안에 있는 것을 먼저 계산하다
+print(2+2*2)
+print((2+2)*2)
+print('cheese'+'burger')
+#비교 연산
+print(5>3)
+print(5<3)
+print(5==5)
+print(5!=5)
+print(6<7)
+print(9>10)
+print(4>=3)
+print(3<=100000)
