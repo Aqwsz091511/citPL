@@ -16,13 +16,13 @@ print({
 "married" : False
 }["Age"] + 30 )
 
-# {
-# "name" : "bale"
-# "age" : 32,
-# "team" : "real madrid",
-# "rival team" : "barcelona",
-# "married" : True
-# }
+{
+"name" : "bale"
+"age" : 32,
+"team" : "real madrid",
+"rival team" : "barcelona",
+"married" : True
+}
 
 print({
 "name" : "Bale",
@@ -31,3 +31,6 @@ print({
 "rival team" : "Barcelona",
 "married" : True
 }["rival team"] or False)
+# list: 맨위에 2번
+#dictionary: 위에 같은것
+#컨트롤 s가 저장
