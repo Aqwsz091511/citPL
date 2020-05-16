@@ -13,4 +13,4 @@ hellow = 1
 while number < count :
     print(number)
     number = number+hellow **2
-    hellow = hellow + 1
+    hellow = hellow + 1 # hellow += 1
