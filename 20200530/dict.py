@@ -4,9 +4,11 @@ anna = { "age" : 11,
 Hans = { "age" : 21,
          "home" : "America",
          "married" : True }
-Olaf = { "age " = 7,
-         "home" = "France" ,
-         "married" = False }
+Olaf = { "age" : 7,
+         "home" : "France" ,
+         "married" : False }
 #print(anna["age"])
 #anna["age"] = anna["age"] + 5
 #print (anna["age"])
+print(   not   (anna["married"] or Hans["married"])    )
+print(   not   (anna["married"] or Olaf["married"])    )
